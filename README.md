@@ -1,5 +1,5 @@
 # Future_Price_of_Biomass_Electricity_based_on_REMIND2.1
-Copyright [2024] [Safdar Abbas]
+Copyright 2024 Safdar Abbas
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
