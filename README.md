@@ -46,6 +46,10 @@ In the next step, we import the data downloaded in step 2 into the Pyam package.
 # Future Biomass Price
 we consider here the future price of biomass for the year of 2030, 2040 and 2050. The snapshots of these prices are given below
 ![Biomass price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/7a250888-7e6b-463c-b693-91aaad0b9c21)
+# Graphical representation of Prospective Biomass Price
+The following is the graphical representation of this Biomass prices.
+![Graphical representation Biomass price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/a1d3d142-001a-470f-ab72-0a7b6f086292)
+
 
 
 
