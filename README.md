@@ -15,3 +15,5 @@ Copyright 2024 Safdar Abbas
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+# Introduction about pyam
+[pyam](https://pyam-iamc.readthedocs.io/en/stable/index.html)is a Python package that is open source and offers a range of tools and methods for evaluating and visualizing input data (such as assumptions and parametrization) and output data (model results) from integrated-assessment models, macro-energy scenarios, energy systems analysis, and sectoral studies.
