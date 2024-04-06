@@ -43,17 +43,33 @@ The furthur details of these Data model can be found in [read the documents](htt
 # Scenario Visualization
 In the next step, we import the data downloaded in step 2 into the Pyam package. Specifically, we downloaded REMIND 2.1 scenario data for the European region in our study. We thoroughly examine this data using the Pyam package, focusing on future prices of biomass, electricity, and other input variables relevant to our research. Additionally, we provide a Python-based notebook located in the "docs" folder above to visualize these scenario data and generate other visualizations using the provided source code. We include snapshots of these timeseries data and provide plots as well. The scenario terminology used here follows the pattern "R2p1," indicating the REMIND 2.1 Model, along with "SSP2-PkBudg 1100," which corresponds to what we've consistently mentioned in our study's research article. Notably, "SSP2-PkBudg 900" is equivalent to "SSP2-PkBudg 500," with the variation in terminology stemming from a prospective LCA background database scenario developed by Premise. They used "REMIND-SSP2-PkBudg1150" and "REMIND-SSP2-PkBudg500," while the REMIND 2.1 model provided in the AR6 database employs "R2p1-SSP2-PkBudg1100" and "R2p1-SSP2-PkBudg900." It is important to ensure that the data file is placed in the same folder where the notebook is running. For further details on scenario visualization and step-by-step guidance on using this package, refer to the [Tutorial](https://pyam-iamc.readthedocs.io/en/stable/tutorials.html) section.
 
-# Future Biomass Price
+# Future Biomass Prices
 we consider here the future price of biomass for the year of 2030, 2040 and 2050. The snapshots of these prices are given below
 ![Biomass price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/7a250888-7e6b-463c-b693-91aaad0b9c21)
-# Graphical representation of Prospective Biomass Price
+# Graphical representation of Prospective Biomass Prices
 The following is the graphical representation of this Biomass prices.
 ![Graphical representation Biomass price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/a1d3d142-001a-470f-ab72-0a7b6f086292)
 
+# Future Electricity Prices
+![Electricity prices](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/6228f53d-519e-4614-9fc0-0f676fef47df)
 
+# Graphical representation of Prospective Electricity Prices
+![Graphical representation electricity price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/9a58a470-d224-4ff1-83cf-99073ba0ecde)
 
+ # Future Prices of District or Industrial Heating using Natural Gas
+ ![Heating price using naturla gas](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/15999111-a18b-4c54-8022-96a5e4db0ae4)
 
+# Graphical representation of Future Prices of District or Industrial Heating using Natural Gas
+ ![Future heating price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/6c35fc99-55ff-430f-b3e4-0c39e145ef63)
 
+ # Future Prices of District or Industrial Heating other than Natural Gas
+ ![other than natural gas](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/b0188d8f-8c2e-44a3-9807-0af9287d71fd)
+
+# Graphical representation of Future Prices of District or Industrial Heating other than Natural Gas
+![Graphical representation heating price other than natural gas](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/769a0cca-d954-4b57-b1b1-90fc64a10e59)
+
+# Scientific Publications
+Huppmann D, Gidden MJ, Nicholls Z et al. pyam: Analysis and visualisation of integrated assessment and macro-energy scenarios [version 2; peer review: 3 approved]. Open Res Europe 2021, 1:74 (https://doi.org/10.12688/openreseurope.13633.2)
 
 
 
