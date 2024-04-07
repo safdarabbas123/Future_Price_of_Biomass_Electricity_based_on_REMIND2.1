@@ -29,7 +29,7 @@ Below is an illustrating how the Pyam Package can be employed to examine potenti
 
 # Step 1
 # Installation
-First install the pyam package. The process of installing Pyam typically involves utilizing Python package managers such as pip, conda or mamba. Users can easily install Pyam by running a simple command in their terminal or command prompt. However, for users who require more detailed instructions or encounter specific installation challenges, a comprehensive guide is available. 
+First install the pyam package. The process of installing Pyam typically involves utilizing Python package managers such as [pip](https://pypi.org/project/pip/) ,  [conda](https://github.com/conda/conda) or [Mamba](https://mamba.readthedocs.io/en/latest/). Users can easily install Pyam by running a simple command in their terminal or command prompt. However, for users who require more detailed instructions or encounter specific installation challenges, a comprehensive guide is available. 
 [Please read this installation guide](https://pyam-iamc.readthedocs.io/en/stable/install.html) 
 This guide offers step-by-step instructions, troubleshooting tips, and additional resources to ensure a smooth installation process for users of all levels of expertise.
 
