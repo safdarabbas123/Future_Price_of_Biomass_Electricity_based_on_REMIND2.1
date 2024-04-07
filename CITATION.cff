@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Abbas"
+  given-names: "Safdar"
+  orcid: "https://orcid.org/0009-0003-5418-0342"
+title: "Future price of biomass, Electricity "
+version: 0.1.0
+doi: 10.5281/zenodo.10937931
+date-released: 2024-04-07
+url: "https://doi.org/10.5281/zenodo.10937931"
