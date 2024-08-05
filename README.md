@@ -58,8 +58,13 @@ The following is the graphical representation of this Biomass prices.
 
 # Graphical representation of Future Prices of District or Industrial Heating other than Natural Gas
 ![Graphical representation heating price other than natural gas](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/769a0cca-d954-4b57-b1b1-90fc64a10e59)
-#Future Prices of lignin sold as Coal for primary energy
+# Future Prices of lignin sold as Coal for primary energy
 ![image](https://github.com/user-attachments/assets/56a03b16-29df-4112-a588-407c6ffb1d9b)
+
+# Future Prices of lignin sold as liquid fuel for secondary energy
+![image](https://github.com/user-attachments/assets/14184139-8995-4090-9547-5a10f0d32abf)
+# Graphical representation of Future Prices of lignin sold as liquid fuel for secondary energy
+![image](https://github.com/user-attachments/assets/7e67e78e-4ba8-4f57-b7e3-5a84ffa420a8)
 
 
 # Scientific Publications
