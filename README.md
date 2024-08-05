@@ -64,7 +64,8 @@ The following is the graphical representation of this Biomass prices.
 # Future Prices of lignin sold as liquid fuel for secondary energy
 ![image](https://github.com/user-attachments/assets/14184139-8995-4090-9547-5a10f0d32abf)
 # Graphical representation of Future Prices of lignin sold as liquid fuel for secondary energy
-![image](https://github.com/user-attachments/assets/7e67e78e-4ba8-4f57-b7e3-5a84ffa420a8)
+![image](https://github.com/user-attachments/assets/a8fa9863-8ab0-4fc1-b9d7-4fecc132c588)
+
 
 
 # Scientific Publications
