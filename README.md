@@ -40,6 +40,13 @@ we consider here the future price of biomass for the year of 2030, 2040 and 2050
 # Graphical representation of Prospective Biomass Prices
 The following is the graphical representation of this Biomass prices.
 ![Graphical representation Biomass price](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/a1d3d142-001a-470f-ab72-0a7b6f086292)
+# Electricity mix in the prospective background system under various scenarios
+# Graphical representation of Prospective Electricity mix under REMIND-SSP2-Base for the year 2030, 2040 and 2050
+![electricity](https://github.com/user-attachments/assets/a6cc592c-45f3-436b-9dd7-5edd78801467)
+# Graphical representation of Prospective Electricity mix under REMIND-SSP2-Pkbudg1150 for the year 2030, 2040 and 2050
+![electricity_pkbudg1150](https://github.com/user-attachments/assets/4172931e-4668-4339-9a2b-0b4eb0b23129)
+# Graphical representation of Prospective Electricity mix under REMIND-SSP2-Pkbudg500 for the year 2030, 2040 and 2050
+![electricity_pkbudg500](https://github.com/user-attachments/assets/d6aafec9-f604-42bf-b423-7a03f2b46555)
 
 # Future Electricity Prices
 ![Electricity prices](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/assets/112714003/6228f53d-519e-4614-9fc0-0f676fef47df)
